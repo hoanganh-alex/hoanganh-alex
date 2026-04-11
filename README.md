@@ -22,11 +22,11 @@ Tuy ít tuổi là vậy và mình đã và đang làm "Software Engineer - SWE"
 
 ---
 
-## Tech stack
+## Kĩ Năng
 
 | Nhóm | Công nghệ |
 |------|-----------|
-| Ngôn ngữ | C#, Python, C/C++, Java, Lua, JS/TS, Swift, Kotlin |
+| Ngôn ngữ | C#, Python, C/C++, Java, Lua, JS/TS, Swift, Kotlin ,Rust ,Cow ,Chef ,Whitespace|
 | Web / App | React, Node.js, Django, FastAPI, Flutter, React Native |
 | Game | Unity, Unreal Engine |
 | AI / ML | OpenAI API, Gemini, TensorFlow, PyTorch |
