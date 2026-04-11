@@ -1,4 +1,4 @@
-# Ngyễn Hoàng Anh • Alex
+# Nguyễn Hoàng Anh • Alex
 
 > *"Transforming Ideas into Impact."*
 
