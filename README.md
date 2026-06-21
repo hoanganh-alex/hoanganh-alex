@@ -34,7 +34,7 @@ Tuy ít tuổi là vậy và mình đã và đang làm "Software Engineer - SWE"
 | DevOps / Cloud | Docker, Kubernetes, GitHub Actions, Cloudflare, AWS |
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp,java,js,ts,lua,html,css,react,nodejs,flutter,swift,kotlin,unity,unreal,linux,docker,kubernetes,git,github,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,java,js,ts,lua,html,css,react,nodejs,flutter,swift,kotlin,Rust,Cow,Chef,Whitespace,unity,unreal,linux,docker,kubernetes,git,github,tensorflow,pytorch" />
 </p>
 
 ---
