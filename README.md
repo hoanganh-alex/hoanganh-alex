@@ -2,7 +2,7 @@
 
 > *"Transforming Ideas into Impact."*
 
-Gen Z, 2009, Thanh Hoá. Sở thích nghiên cứu ,luôn học hỏi và phát triển những thứ "không ai làm được", chỉ có thể là tôi.
+Gen Z. Sở thích nghiên cứu ,luôn học hỏi và phát triển những thứ "không ai làm được", chỉ có thể là tôi.
 
 ---
 
