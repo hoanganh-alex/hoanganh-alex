@@ -43,6 +43,6 @@ Tuy ít tuổi là vậy và mình đã và đang làm "Software Engineer - SWE"
 
 <p align="center">
   <a href="mailto:lungtungta@gmail.com"><img src="https://img.shields.io/badge/Gmail-Nguyen Hoang Anh-red?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://www.facebook.com/hazhhxyz"><img src="https://img.shields.io/badge/Facebook-hazhhxyz-blue?style=for-the-badge&logo=facebook"/></a>
+  <a href="https://www.facebook.com/hoanganhalex09"><img src="https://img.shields.io/badge/Facebook-hazhhxyz-blue?style=for-the-badge&logo=facebook"/></a>
   <a href="https://zalo.me/0868873822"><img src="https://img.shields.io/badge/Zalo-0868873822-lightblue?style=for-the-badge&logo=messenger"/></a>
 </p>
